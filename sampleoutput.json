@@ -1,0 +1,111 @@
+[
+    {
+        "source": {
+            "id": "reuters",
+            "name": "Reuters"
+        },
+        "author": "Josh Smith",
+        "title": "Submarines, nuclear drones: Why is North Korea developing its navy? - Reuters",
+        "description": "Over the past year North Korea has moved to boost its navy with new nuclear weapons, including an underwater drone, warships, and its first operational missile submarine, unveiled on Friday.",
+        "url": "https://www.reuters.com/world/asia-pacific/new-submarines-nuclear-drones-why-is-north-korea-developing-its-navy-2023-09-08/",
+        "urlToImage": "https://www.reuters.com/resizer/Do5AiRd0trBfU3U_huGde8NRO4A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YX6QKLVIQBLW5HZUDUIT6CJPLE.jpg",
+        "publishedAt": "2023-09-08T08:34:55Z",
+        "content": "SEOUL, Sept 8 (Reuters) - Over the past year North Korea has moved to boost its navy with new nuclear weapons, including an underwater drone, warships, and its first operational missile submarine, un… [+3772 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Mary Gilbert",
+        "title": "Hurricane Lee strengthens to Category 5 storm in Atlantic as East Coast impact still uncertain - CNN",
+        "description": "Hurricane Lee has strengthened into a major Category 5 storm, packing maximum sustained wind speeds of 160 mph as it spins over the Atlantic well east of the Caribbean, the National Hurricane Center said in an 11 p.m. ET advisory Thursday.",
+        "url": "https://www.cnn.com/2023/09/08/weather/hurricane-lee-path-friday-climate/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230908120126-hurricane-lee.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-09-08T07:12:00Z",
+        "content": "Hurricane Lee has strengthened into a major Category 5 storm, packing maximum sustained wind speeds of 160 mph as it spins over the Atlantic well east of the Caribbean, the National Hurricane Center … [+4107 chars]"
+    },
+    
+    {
+        "source": {
+        "id": "reuters",
+        "name": "Reuters"
+        },
+        "author": "Reuters",
+        "title": "China's Huawei launches Mate 60 Pro+ smartphone for presale - Reuters",
+        "description": "China's Huawei Technologies on Friday started presales for its Mate 60 Pro+ smartphone, adding a new version to a series that has captured global attention for revealing the Chinese tech firm's success in beating back against U.S. sanctions.",
+        "url": "https://www.reuters.com/technology/chinas-huawei-launches-mate-60-pro-smartphone-presale-2023-09-08/",
+        "urlToImage": "https://www.reuters.com/resizer/ny0PTDnQonyDUYuDNhziPMDWiY0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JUEDW3ST75KN5NAF5CQLCRKOAE.jpg",
+        "publishedAt": "2023-09-08T03:23:27Z",
+        "content": "BEIJING, Sept 8 (Reuters) - China's Huawei Technologies on Friday started presales for its Mate 60 Pro+ smartphone, adding a new version to a series that has captured global attention for revealing t… [+1392 chars]"
+        },
+        
+        {
+        "source": {
+        "id": "cnn",
+        "name": "CNN"
+        },
+        "author": "Alli Rosenbloom, Oliver Darcy",
+        "title": "Jimmy Fallon apologized to staff over allegations of difficult work environment on ‘Tonight Show’ - CNN",
+        "description": "Jimmy Fallon has apologized to his colleagues over allegations outlined in a Rolling Stone story published Thursday about a difficult work environment at “The Tonight Show Starring Jimmy Fallon,” CNN has learned.",
+        "url": "https://www.cnn.com/2023/09/07/entertainment/jimmy-fallon-apology/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230907152644-jimmy-fallon-tonight-show-file.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-09-08T02:51:00Z",
+        "content": "Jimmy Fallon has apologized to his colleagues over allegations outlined in a Rolling Stone story published Thursday about a difficult work environment at The Tonight Show Starring Jimmy Fallon, CNN h… [+2363 chars]"
+        },
+        {
+        "source": {
+        "id": null,
+        "name": "Thenationaldesk.com"
+        },
+        "author": "COURTNEY RAU | The National Desk",
+        "title": "Fact Check Team: Narcan now available over-the-counter in efforts to ease opioid overdose deaths - KOMO News",
+        "description": "221 people in the U.S. died each day of 2021 from an opioid overdose, most of which involve synthetic opioids like fentanyl.",
+        "url": "https://thenationaldesk.com/news/fact-check-team/fact-check-team-narcan-now-available-over-the-counter-in-efforts-to-ease-opioid-overdose-deaths-naloxone-opiates-cvs-rite-aid-walmart-oud-private-health-insurance-medicaid-fentanyl-fake-pills-oxycodone-xanax",
+        "urlToImage": "https://thenationaldesk.com/resources/media/ffd27b9b-47cc-4244-aef5-77abb198c184-large16x9_AP23083696207676.jpg?1680095297793",
+        "publishedAt": "2023-09-08T02:39:00Z",
+        "content": "by COURTNEY RAU | The National Desk Fri, September 8th 2023, 2:39 AM UTC"
+        },
+       
+        
+        
+        {
+        "source": {
+        "id": "cnn",
+        "name": "CNN"
+        },
+        "author": "Ashley Strickland",
+        "title": "The first experiment to produce oxygen on another planet has come to an end - CNN",
+        "description": "The first experiment to create oxygen on another planet has reached a successful end on Mars after demonstrating technology that could help humans live on the red planet.",
+        "url": "https://www.cnn.com/2023/09/07/world/nasa-mars-moxie-perseverance-scn/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/211228151449-01-nasa-perseverance-mars-rover-screenshot.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-09-08T01:29:00Z",
+        "content": "Editors Note: Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more. The first experiment to produce oxygen o… [+3735 chars]"
+        },
+        {
+        "source": {
+        "id": null,
+        "name": "YouTube"
+        },
+        "author": null,
+        "title": "Georgia DA eviscerates Jim Jordan, suggests he buy book on RICO law - MSNBC",
+        "description": "Fulton County DA Fani Willis rebuked GOP Rep. Jim Jordan over his bid to interfere in the Trump case. “Your letter makes clear that you lack a basic understa...",
+        "url": "https://www.youtube.com/watch?v=tGAKIL3xtLI",
+        "urlToImage": "https://i.ytimg.com/vi/tGAKIL3xtLI/maxresdefault.jpg",
+        "publishedAt": "2023-09-08T01:00:30Z",
+        "content": null
+        },
+        {
+        "source": {
+        "id": "politico",
+        "name": "Politico"
+        },
+        "author": null,
+        "title": "Gov. Kristi Noem to endorse Trump during South Dakota campaign rally - POLITICO",
+        "description": "Noem has been floated as a potential VP pick for the former president.",
+        "url": "https://www.politico.com/news/2023/09/07/gov-kristi-noem-to-endorse-trump-during-south-dakota-campaign-rally-00114648",
+        "urlToImage": "https://static.politico.com/01/5b/07bbca09420bbb8d4258ccbe5745/election-2024-trump-south-dakota-58894.jpg",
+        "publishedAt": "2023-09-08T00:42:37Z",
+        "content": "South Dakota Gov. Kristi Noem (right) has been floated as a possible running mate for Donald Trump. | Susan Walsh/AP Photo Gov. Kristi Noem of South Dakota will endorse former President Donald Trump… [+569 chars]"
+        }
+]
